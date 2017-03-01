@@ -1,7 +1,7 @@
 ;
 ;  8 bit sawtooth synthesizer
 ;
-;  https://gitgub.com/ruslanas/8bit-assembly
+;  https://github.com/ruslanas/8bit-assembly
 ;
 ; (c) 2017 Ruslanas Balciunas
 

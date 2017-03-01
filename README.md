@@ -5,14 +5,16 @@ Compile and listen
 
 `fasm music.asm music.wav`
 
+[Download binary](https://raw.githubusercontent.com/ruslanas/8bit-assembly/master/music.wav)
+
 Source code
-===========
+-----------
 
 ```
 ;
 ;  8 bit sawtooth synthesizer
 ;
-;  https://gitgub.com/ruslanas/8bit-assembly
+;  https://github.com/ruslanas/8bit-assembly
 ;
 ; (c) 2017 Ruslanas Balciunas
 
