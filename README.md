@@ -7,6 +7,8 @@ Compile and listen
 
 [Download binary](https://raw.githubusercontent.com/ruslanas/8bit-assembly/master/music.wav)
 
+[Listen on FreeSound.org](https://www.freesound.org/people/ruslanas.com/sounds/382612/)
+
 Source code
 -----------
 
@@ -37,7 +39,7 @@ waveChunkStart:
                 dd fmtChunkEnd - fmtChunkStart                  ; chunk size
 
 fmtChunkStart:
-                dw 1                                            ; Autio format (PCM)
+                dw 1                                            ; Audio format (PCM)
                 dw NumChannels
                 dd SampleRate
                 dd SampleRate * NumChannels * BitsPerSample / 8 ; Byte rate
