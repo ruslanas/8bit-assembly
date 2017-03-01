@@ -7,7 +7,7 @@ Compile and listen
 
 [Download binary](https://raw.githubusercontent.com/ruslanas/8bit-assembly/master/music.wav)
 
-[Listen on FreeSound.org](https://www.freesound.org/people/ruslanas.com/sounds/382612/)
+[Listen on FreeSound.org](https://www.freesound.org/people/ruslanas.com/sounds/382612/) _(link may be broken, awaiting moderaition)_
 
 Source code
 -----------
@@ -22,8 +22,8 @@ Source code
 ;
 ;  (c) 2017 Ruslanas Balciunas
 
-Duration        equ 1
-NumChannels     equ 1
+Duration        equ 1                                          ; seconds
+NumChannels     equ 1                                          ; mono
 SampleRate      equ 44100
 NumSamples      equ Duration * SampleRate
 BitsPerSample   equ 8
