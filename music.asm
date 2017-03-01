@@ -44,7 +44,7 @@ fmtChunkEnd:
 		end repeat
 
 	repeat TotalBytes / 8
-		db 256 / 2				 ; silence
+		db 256 / 2					; silence
 		end repeat
 
 	repeat TotalBytes / 8
