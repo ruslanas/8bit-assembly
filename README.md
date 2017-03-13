@@ -7,7 +7,7 @@ Compile and listen
 
 [Download binary](https://raw.githubusercontent.com/ruslanas/8bit-assembly/master/music.wav)
 
-[Listen on FreeSound.org](https://www.freesound.org/people/ruslanas.com/sounds/382612/) _(link may be broken, awaiting moderation)_
+[Listen on FreeSound.org](https://www.freesound.org/people/ruslanas.com/sounds/382612/)
 
 Source code
 -----------
